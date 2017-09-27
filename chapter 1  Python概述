@@ -1,0 +1,7 @@
+Python概述
+
+   Python是一种解释型、面向对象型、动态数据类型的高级程序设计语言
+   一、执行第一个python程序
+   Python3.0+已经把print作为内置函数，正确输出“Hello World!”，代码如下：
+    
+    print("Hello World!")
